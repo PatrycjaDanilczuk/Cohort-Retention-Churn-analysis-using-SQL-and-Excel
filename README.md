@@ -30,7 +30,7 @@ The code can be accessed here: [2. SQL Retention rate](https://github.com/Patryc
 
 **Step 3:**  Creating SQL query to retrieve weekly cohorts and number of retained customers from week 0 to week 6 for each cohort by category (desktop, mobile, tablet)
 
-The code can be accessed here: [3. SQL Retained by category], the result table can be found in the uploaded Excel file, tab name: 3. SQL Retained by category.
+The code can be accessed here: [3. SQL Retained by category](https://github.com/PatrycjaDanilczuk/Cohort-Renention-Churn-analysis-using-SQL-and-Excel/blob/main/3.%20SQL%20Retained%20by%20category), the result table can be found in the uploaded Excel file, tab name: 3. SQL Retained by category.
 
 **Step 4:** Calculating retention rate by category in SQL
 
