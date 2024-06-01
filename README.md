@@ -22,7 +22,7 @@ Use subscriptions table hosted in BigQuery Project to answer this question. The 
 ## Steps overview
 **Step 1:**  Creating SQL query to retrieve weekly cohorts and number of retained customers from week 0 to week 6 for each cohort 
 
-The code can be accessed here: [1. SQL Retained], the result table can be found in the uploaded Excel file, tab name: 1. SQL Retained.
+The code can be accessed here: [1. SQL Retained](https://github.com/PatrycjaDanilczuk/Cohort-Renention-Churn-analysis-using-SQL-and-Excel/blob/main/1.%20SQL%20Retained), the result table can be found in the uploaded Excel file, tab name: 1. SQL Retained.
 
 **Step 2:**  Calculating retention rate in SQL
 
