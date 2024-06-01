@@ -34,7 +34,7 @@ The code can be accessed here: [3. SQL Retained by category](https://github.com/
 
 **Step 4:** Calculating retention rate by category in SQL
 
-The code can be accessed here: [4. SQL Retention by category], the result table can be found in the uploaded Excel file, tab name: 4. SQL Retention by category.
+The code can be accessed here: [4. SQL Retention by category](https://github.com/PatrycjaDanilczuk/Cohort-Renention-Churn-analysis-using-SQL-and-Excel/blob/main/4.%20SQL%20Retention%20by%20category), the result table can be found in the uploaded Excel file, tab name: 4. SQL Retention by category.
 
 **Step 5:** Uploading result table to Excel for further analysis
 
