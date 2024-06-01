@@ -40,4 +40,4 @@ The code can be accessed here: [4. SQL Retention by category](https://github.com
 
 **Step 6:** Providing analysis and actionable insights
 
-The results of the analysis have been provided in the uploaded [Excel file] in Overview tab.
+The results of the analysis have been provided in the uploaded Excel file: [Cohort_retention_churn_analysis](https://github.com/PatrycjaDanilczuk/Cohort-Renention-Churn-analysis-using-SQL-and-Excel/blob/main/Cohort_retention_churn_analysis.xlsx) in Overview tab.
