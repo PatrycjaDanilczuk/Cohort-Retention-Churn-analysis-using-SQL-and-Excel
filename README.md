@@ -19,7 +19,7 @@ Use subscriptions table hosted in BigQuery Project to answer this question. The 
 | subscription_end | DATE | NULLABLE |
 
 		
-## Steps overview
+## Steps description
 **Step 1:**  Creating SQL query to retrieve weekly cohorts and number of retained customers from week 0 to week 6 for each cohort 
 
 The code can be accessed here: [1. SQL Retained](https://github.com/PatrycjaDanilczuk/Cohort-Renention-Churn-analysis-using-SQL-and-Excel/blob/main/1.%20SQL%20Retained), the result table can be found in the uploaded Excel file, tab name: 1. SQL Retained.
@@ -40,4 +40,5 @@ The code can be accessed here: [4. SQL Retention by category](https://github.com
 
 **Step 6:** Providing analysis and actionable insights
 
+## Analysis results
 The results of the analysis have been provided in the uploaded Excel file: [Cohort_retention_churn_analysis](https://github.com/PatrycjaDanilczuk/Cohort-Renention-Churn-analysis-using-SQL-and-Excel/blob/main/Cohort_retention_churn_analysis.xlsx) in Overview tab.
